@@ -1,8 +1,8 @@
 ### <div align="left">I am Abel Belay, a Software Engineer 👨‍💻 from Addis Ababa, Ethiopia.</div>
 
-<div align="left">
+<!-- <div align="left">
 <img src="https://visitcount.itsvg.in/api?id=abel-tefera&icon=4&color=6" align="left" />
-</div> <br />
+</div> <br /> -->
 
 # 💫 About Me:
 
